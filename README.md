@@ -6,3 +6,7 @@ Author: Klaudia Kiefer
 das ist mein Projekt *Library Carpentry*
 
 im Web über HTTPS
+
+[X] jetzt
+[ ] mit
+[ ] Ankreuzliste
