@@ -1,3 +1,3 @@
 # Klaudias awesome Project
-30.06.23
+2023-06-30
 das ist mein Projekt *Library Carpentry*
